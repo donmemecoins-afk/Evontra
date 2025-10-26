@@ -1,5 +1,12 @@
 # Evontra
-welcome my name is Evontra 
+# welcome my name is Evontra 
+# very eco friendly 
+
+
+
+
+
+
 Role: [launching meme coins]
 Task: [Pushing to 50 million in market cap]
 Programming Language: [English]
